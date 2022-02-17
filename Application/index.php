@@ -66,7 +66,7 @@
       <!-- menu pc -->
       <ul class="right hide-on-med-and-down">
 
-        <li><a href="Lecciones.php">Lecciones</a></li>
+        <li><a href="Lecciones.php">Lecciones hola mundo</a></li>
         <li><a href="#abajo">Contacto</a></li>
           <?php if(empty($user_estu) && empty($user_prof)): ?>
               <li><a href="Inicio-de-Sesion.php">Iniciar sesión</a></li>
