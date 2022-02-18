@@ -94,7 +94,7 @@
       <ul id="nav-mobile" class="sidenav">
 
         <li><a href="Lecciones.php">Lecciones</a></li>
-        <li><a href="#abajo">Contacto</a></li>
+        <li><a href="#abajo">Contacto sign to all</a></li>
           <?php if(empty($user_estu) && empty($user_prof)): ?>
               <li><a href="Inicio-de-Sesion.php">Iniciar sesión</a></li>
               <li><a href="Registro.php">Registrarse</a></li>
